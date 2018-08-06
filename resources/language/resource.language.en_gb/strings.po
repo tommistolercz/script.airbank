@@ -1,6 +1,6 @@
 # Kodi Media Center language file
 # Addon Name: Air Bank
-# Addon id: plugin.program.airbank
+# Addon id: script.airbank
 # Addon Provider: TomMistolerCZ
 msgid ""
 msgstr ""
@@ -22,4 +22,16 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Content type"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Items per page"
+msgstr ""
+
+msgctxt "#30003"
+msgid "API key"
+msgstr ""
+
+msgctxt "#30004"
+msgid "BRANCHES"
 msgstr ""
