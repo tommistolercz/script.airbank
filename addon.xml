@@ -2,14 +2,14 @@
 <addon id="script.airbank" name="Air Bank" version="1.0.0" provider-name="TomMistolerCZ">
     <requires>
         <import addon="xbmc.python" version="2.25.0"/>
-        <import addon="script.module.requests" version="2.18.4"/>
+        <import addon="script.module.requests"/>
     </requires>
     <extension point="xbmc.python.pluginsource" library="resources/lib/addon.py">
         <provides>executable</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary lang="en_GB">Air Bank for Kodi</summary>
-        <description lang="en_GB">Kodi add-on for accessing banking services.</description>
+        <description lang="en_GB">Kodi add-on for accessing public services of Air Bank OpenAPI.</description>
         <platform>all</platform>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <forum></forum>
